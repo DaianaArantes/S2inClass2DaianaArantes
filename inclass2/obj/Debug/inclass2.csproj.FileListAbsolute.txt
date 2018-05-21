@@ -1,0 +1,30 @@
+G:\PROG1815-18WPC\inclass2\inclass2\bin\Debug\inclass2.exe.config
+G:\PROG1815-18WPC\inclass2\inclass2\bin\Debug\inclass2.exe
+G:\PROG1815-18WPC\inclass2\inclass2\bin\Debug\inclass2.pdb
+G:\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.csprojResolveAssemblyReference.cache
+G:\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.Form1.resources
+G:\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.Properties.Resources.resources
+G:\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.csproj.GenerateResource.Cache
+G:\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.csproj.CoreCompileInputs.cache
+G:\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.exe
+G:\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.pdb
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\bin\Debug\inclass2.exe.config
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\bin\Debug\inclass2.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\bin\Debug\inclass2.pdb
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\obj\Debug\inclass2.csprojResolveAssemblyReference.cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\obj\Debug\inclass2.Form1.resources
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\obj\Debug\inclass2.Properties.Resources.resources
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\obj\Debug\inclass2.csproj.GenerateResource.Cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\obj\Debug\inclass2.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\obj\Debug\inclass2.exe
+C:\Users\Daiana\OneDrive\College\Programming Concepts II\inclass2\inclass2\obj\Debug\inclass2.pdb
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\bin\Debug\inclass2.exe.config
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\bin\Debug\inclass2.exe
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\bin\Debug\inclass2.pdb
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.csprojResolveAssemblyReference.cache
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.Form1.resources
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.Properties.Resources.resources
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.csproj.GenerateResource.cache
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.csproj.CoreCompileInputs.cache
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.exe
+C:\Users\daian\Downloads\PC\PROG1815-18WPC\inclass2\inclass2\obj\Debug\inclass2.pdb
